@@ -1,0 +1,12 @@
+# Python cache file
+__pycache__/
+*.pyc
+*.pyo
+*.log
+# Windows system file
+Thumbs.db
+# Mac hidden file
+.DS_Store
+# Temporary file
+*.tmp
+*.bak
